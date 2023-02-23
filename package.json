@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/lneninger/irrigai-background-public.git"
   },
-  "author": "",
+  "author": {
+    "name": "neningertech"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lneninger/irrigai-background-public/issues"
