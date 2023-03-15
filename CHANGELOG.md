@@ -1,3 +1,10 @@
+# 1.0.0 (2023-02-23)
+
+
+### Bug Fixes
+
+* CICD ([55d420a](https://github.com/lneninger/irrigai-background-public/commit/55d420ad1b9839246f7963a1dea3a3abac5d0b2c))
+
 ## [1.0.17](https://github.com/lneninger/irrigai-app-public/compare/v1.0.16...v1.0.17) (2023-02-20)
 
 
