@@ -22,7 +22,7 @@
             {
                 "assets": [
                     {
-                        "path": "./release-public/App-linux.tar.gz",
+                        "path": "./release-public/IrrigAI-linux.tar.gz",
                         "name": "irrigai-background-linux.deb",
                         "label": "Linux distribution"
                     }
