@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/lneninger/irrigai-background-public/compare/v1.0.14...v1.0.15) (2023-03-23)
+
+
+### Bug Fixes
+
+* Update from https://github.com/lneninger/irrigation-net-service/commit/157362b13a35fb6d16258617df2682e25a8a4471 ([42b26b8](https://github.com/lneninger/irrigai-background-public/commit/42b26b8b1bfb1f297b5b1ff01b4441216a08629e))
+
 ## [1.0.14](https://github.com/lneninger/irrigai-background-public/compare/v1.0.13...v1.0.14) (2023-03-23)
 
 
