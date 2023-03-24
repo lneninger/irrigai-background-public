@@ -1,6 +1,6 @@
 {
   "name": "irrigai-background-public",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Irrigai Background Service",
   "main": "index.js",
   "private": true,
